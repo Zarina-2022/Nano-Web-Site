@@ -14,4 +14,5 @@ HTML tags like header and footer as well as the basics of HTML and CSS. This is 
 
 Enjoy Coding ❤
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
 
